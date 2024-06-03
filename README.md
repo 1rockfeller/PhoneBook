@@ -1,2 +1,3 @@
 # PhoneBook
-Fait le CRUD des contacts téléphoniqies
+Fait le CRUD des contacts téléphoniques
+
