@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\API",
+    "\\API\\PhoneBook.API"
   ],
-  "SelectedNode": "\\C:\\Users\\Essowedeou\\Source\\Repos\\PhoneBook",
+  "SelectedNode": "\\API\\PhoneBook.API\\PhoneBook.API.sln",
   "PreviewInSolutionExplorer": false
 }
