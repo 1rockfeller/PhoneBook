@@ -1,34 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rockf\\source\\repos\\PhoneBook\\APIPhoneBook\\PhoneBook.API\\PhoneBook.API.csproj": {}
+    "C:\\Users\\Essowedeou\\Source\\Repos\\PhoneBook\\APIPhoneBook\\PhoneBook.API\\PhoneBook.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rockf\\source\\repos\\PhoneBook\\APIPhoneBook\\PhoneBook.API\\PhoneBook.API.csproj": {
+    "C:\\Users\\Essowedeou\\Source\\Repos\\PhoneBook\\APIPhoneBook\\PhoneBook.API\\PhoneBook.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rockf\\source\\repos\\PhoneBook\\APIPhoneBook\\PhoneBook.API\\PhoneBook.API.csproj",
+        "projectUniqueName": "C:\\Users\\Essowedeou\\Source\\Repos\\PhoneBook\\APIPhoneBook\\PhoneBook.API\\PhoneBook.API.csproj",
         "projectName": "PhoneBook.API",
-        "projectPath": "C:\\Users\\rockf\\source\\repos\\PhoneBook\\APIPhoneBook\\PhoneBook.API\\PhoneBook.API.csproj",
-        "packagesPath": "C:\\Users\\rockf\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rockf\\source\\repos\\PhoneBook\\APIPhoneBook\\PhoneBook.API\\obj\\",
+        "projectPath": "C:\\Users\\Essowedeou\\Source\\Repos\\PhoneBook\\APIPhoneBook\\PhoneBook.API\\PhoneBook.API.csproj",
+        "packagesPath": "C:\\Users\\Essowedeou\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Essowedeou\\Source\\Repos\\PhoneBook\\APIPhoneBook\\PhoneBook.API\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\rockf\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Essowedeou\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -75,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
